@@ -49,3 +49,4 @@ Temporary Items
 *.xml
 *.xml___jb_tmp___
 
+.idea/workspace.xml
